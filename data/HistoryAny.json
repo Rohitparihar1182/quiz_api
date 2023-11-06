@@ -1,0 +1,189 @@
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The seed drill was invented by which British inventor?",
+			"correct_answer": "Jethro Tull",
+			"incorrect_answers": [
+				"Charles Babbage",
+				"Isaac Newton",
+				"J.J Thomson"
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "King Henry VIII was the second monarch of which European royal house?",
+			"correct_answer": "Tudor",
+			"incorrect_answers": ["York", "Stuart", "Lancaster"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+			"correct_answer": "1969",
+			"incorrect_answers": ["1965", "1966", "1973"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "During what war did the &quot;Cuban Missile Crisis&quot; occur?",
+			"correct_answer": "Cold War",
+			"incorrect_answers": [
+				"World War I",
+				"World War II",
+				"Revolutionary War"
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?",
+			"correct_answer": "John and Mary",
+			"incorrect_answers": [
+				"Joseph and Catherine",
+				"William and Elizabeth",
+				"George and Anne"
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which one of these tanks was designed and operated by the United Kingdom?",
+			"correct_answer": "Tog II",
+			"incorrect_answers": ["M4 Sherman", "Tiger H1", "T-34"]
+		},
+		{
+			"category": "History",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In World War II, Hawker Typhoons served in the Pacific theater.",
+			"correct_answer": "False",
+			"incorrect_answers": ["True"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year was the last natural case of smallpox documented?",
+			"correct_answer": "1977",
+			"incorrect_answers": ["1982", "1980", "1990"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year did the North American Video Game Crash occur?",
+			"correct_answer": "1983",
+			"incorrect_answers": ["1982", "1993", "1970"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Against which country did the Dutch Republic fight the Eighty Years&#039; War?",
+			"correct_answer": "Spain",
+			"incorrect_answers": ["France", "England", "Portugal"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The Battle of Hastings was fought in which year?",
+			"correct_answer": "1066",
+			"incorrect_answers": ["911", "1204", "1420"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following snipers has the highest amount of confirmed kills?",
+			"correct_answer": "Simo H&auml;yh&auml;",
+			"incorrect_answers": [
+				"Chris Kyle",
+				"Vasily Zaytsev",
+				"Craig Harrison"
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which historical conflict killed the most people?",
+			"correct_answer": "World War II",
+			"incorrect_answers": [
+				"Taiping Rebellion",
+				"Three Kingdoms War",
+				"Mongol conquests"
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+			"correct_answer": "The Polish President",
+			"incorrect_answers": [
+				"Pope John Paul II",
+				"Bang-Ding Ow",
+				"Albert Putin"
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How long did the Warsaw Uprising during World War II last?",
+			"correct_answer": "63 Days",
+			"incorrect_answers": ["20 Days", "55 Days", "224 Days"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What year did World War I begin?",
+			"correct_answer": "1914",
+			"incorrect_answers": ["1905", "1919", "1925"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?",
+			"correct_answer": "Caucasus",
+			"incorrect_answers": ["Stalingrad", "Crimea", "Voronezh"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
+			"correct_answer": "Māori",
+			"incorrect_answers": ["Papuans", "Aborigines", "Polynesians"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which English king was married to Eleanor of Aquitaine?",
+			"correct_answer": "Henry II",
+			"incorrect_answers": ["Richard I", "Henry I", "Henry V"]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these 1900s tanks were designed and built BEFORE the others?",
+			"correct_answer": "Renault FT",
+			"incorrect_answers": ["M4 Sherman", " Panzer IV", "Cromwell "]
+		}
+	]
+}

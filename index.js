@@ -107,7 +107,7 @@ const difficulties = ["easy", "medium", "hard"];
 
 const noOfQues = 20;
 
-api += `amount=${noOfQues}`
+api += `amount=${noOfQues}`;
 
 async function fetchQuestions(api, name){
     const response = await fetch(api);

@@ -1,0 +1,131 @@
+
+    var incorrect_options4 = List.nil<Text>();
+    incorrect_options4:= List.push("Russian", incorrect_options4);
+            incorrect_options4:= List.push("Greek", incorrect_options4);
+            incorrect_options4:= List.push("Latvian", incorrect_options4);
+            
+    addMcqQues("Which language is NOT Indo-European?", "Hungarian", incorrect_options4, "multiple", "General Knowledge");
+            
+    var incorrect_options2 = List.nil<Text>();
+    incorrect_options2:= List.push("Single", incorrect_options2);
+            incorrect_options2:= List.push("Secure", incorrect_options2);
+            incorrect_options2:= List.push("Solid", incorrect_options2);
+            
+    addMcqQues("What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ", "Subscriber", incorrect_options2, "multiple", "General Knowledge");
+            
+    var incorrect_options3 = List.nil<Text>();
+    incorrect_options3:= List.push("Gin", incorrect_options3);
+            incorrect_options3:= List.push("Vodka", incorrect_options3);
+            incorrect_options3:= List.push("Whisky", incorrect_options3);
+            
+    addMcqQues("What alcoholic drink is made from molasses?", "Rum", incorrect_options3, "multiple", "General Knowledge");
+            
+    var incorrect_options5 = List.nil<Text>();
+    incorrect_options5:= List.push("tribute", incorrect_options5);
+            incorrect_options5:= List.push("carrie rides a truck", incorrect_options5);
+            incorrect_options5:= List.push("Her new puppy from great grandpa vern.", incorrect_options5);
+            
+    addMcqQues("What is the name of the very first video uploaded to YouTube?", "Me at the zoo", incorrect_options5, "multiple", "General Knowledge");
+            
+    var incorrect_options1 = List.nil<Text>();
+    incorrect_options1:= List.push("The Dream Team", incorrect_options1);
+            incorrect_options1:= List.push("The Bushwhackers", incorrect_options1);
+            incorrect_options1:= List.push("The British Bulldogs", incorrect_options1);
+            
+    addMcqQues("What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?", "Demolition", incorrect_options1, "multiple", "General Knowledge");
+            
+    var incorrect_options6 = List.nil<Text>();
+    incorrect_options6:= List.push("True", incorrect_options6);
+            
+    addMcqQues("An eggplant is a vegetable.", "False", incorrect_options6, "boolean", "General Knowledge");
+            
+    var incorrect_options7 = List.nil<Text>();
+    incorrect_options7:= List.push("Lollipop", incorrect_options7);
+            incorrect_options7:= List.push("Chocolate", incorrect_options7);
+            incorrect_options7:= List.push("Bubblegum", incorrect_options7);
+            
+    addMcqQues("Red Vines is a brand of what type of candy?", "Licorice", incorrect_options7, "multiple", "General Knowledge");
+            
+    var incorrect_options9 = List.nil<Text>();
+    incorrect_options9:= List.push("United States of America", incorrect_options9);
+            incorrect_options9:= List.push("Soviet Union", incorrect_options9);
+            incorrect_options9:= List.push("Poland", incorrect_options9);
+            
+    addMcqQues("What country saw a world record 315 million voters turn out for elections on May 20, 1991?", "India", incorrect_options9, "multiple", "General Knowledge");
+            
+    var incorrect_options8 = List.nil<Text>();
+    incorrect_options8:= List.push("H&aring;l", incorrect_options8);
+            incorrect_options8:= List.push("Sk&auml;rm", incorrect_options8);
+            incorrect_options8:= List.push("Ruta", incorrect_options8);
+            
+    addMcqQues("What is the Swedish word for &quot;window&quot;?", "F&ouml;nster", incorrect_options8, "multiple", "General Knowledge");
+            
+    var incorrect_options10 = List.nil<Text>();
+    incorrect_options10:= List.push("False", incorrect_options10);
+            
+    addMcqQues("When you cry in space, your tears stick to your face.", "True", incorrect_options10, "boolean", "General Knowledge");
+            
+    var incorrect_options12 = List.nil<Text>();
+    incorrect_options12:= List.push("Toshiba", incorrect_options12);
+            incorrect_options12:= List.push("Asus", incorrect_options12);
+            incorrect_options12:= List.push("Dell", incorrect_options12);
+            
+    addMcqQues("Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?", "Hewlett-Packard", incorrect_options12, "multiple", "General Knowledge");
+            
+    var incorrect_options14 = List.nil<Text>();
+    incorrect_options14:= List.push("Red", incorrect_options14);
+            incorrect_options14:= List.push("Blue", incorrect_options14);
+            incorrect_options14:= List.push("Yellow", incorrect_options14);
+            
+    addMcqQues("When someone is inexperienced they are said to be what color?", "Green", incorrect_options14, "multiple", "General Knowledge");
+            
+    var incorrect_options13 = List.nil<Text>();
+    incorrect_options13:= List.push("China", incorrect_options13);
+            incorrect_options13:= List.push("South Korea", incorrect_options13);
+            incorrect_options13:= List.push("United States of America", incorrect_options13);
+            
+    addMcqQues("Which country, not including Japan, has the most people of japanese decent?", "Brazil", incorrect_options13, "multiple", "General Knowledge");
+            
+    var incorrect_options16 = List.nil<Text>();
+    incorrect_options16:= List.push("Green", incorrect_options16);
+            incorrect_options16:= List.push("Red", incorrect_options16);
+            incorrect_options16:= List.push("Blue", incorrect_options16);
+            
+    addMcqQues("When someone is cowardly, they are said to have what color belly?", "Yellow", incorrect_options16, "multiple", "General Knowledge");
+            
+    var incorrect_options11 = List.nil<Text>();
+    incorrect_options11:= List.push("False", incorrect_options11);
+            
+    addMcqQues("&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.", "True", incorrect_options11, "boolean", "General Knowledge");
+            
+    var incorrect_options15 = List.nil<Text>();
+    incorrect_options15:= List.push("True", incorrect_options15);
+            
+    addMcqQues("The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.", "False", incorrect_options15, "boolean", "General Knowledge");
+            
+    var incorrect_options18 = List.nil<Text>();
+    incorrect_options18:= List.push("Red blood cells", incorrect_options18);
+            incorrect_options18:= List.push("White blood cells", incorrect_options18);
+            incorrect_options18:= List.push("Blood plasma", incorrect_options18);
+            
+    addMcqQues("Which of the following blood component forms a plug at the site of injuries?", "Platelets", incorrect_options18, "multiple", "General Knowledge");
+            
+    var incorrect_options17 = List.nil<Text>();
+    incorrect_options17:= List.push("Lawrence Bragg", incorrect_options17);
+            incorrect_options17:= List.push("Werner Heisenberg", incorrect_options17);
+            incorrect_options17:= List.push("Yasser Arafat", incorrect_options17);
+            
+    addMcqQues("Who is the youngest person to recieve a Nobel Prize?", "Malala Yousafzai", incorrect_options17, "multiple", "General Knowledge");
+            
+    var incorrect_options19 = List.nil<Text>();
+    incorrect_options19:= List.push("fiche", incorrect_options19);
+            incorrect_options19:= List.push("escargot", incorrect_options19);
+            incorrect_options19:= List.push("mer", incorrect_options19);
+            
+    addMcqQues("What is the French word for &quot;fish&quot;?", "poisson", incorrect_options19, "multiple", "General Knowledge");
+            
+    var incorrect_options20 = List.nil<Text>();
+    incorrect_options20:= List.push("True", incorrect_options20);
+            
+    addMcqQues("NCIS stands for &quot;Navy Corps Investigative Service&quot;", "False", incorrect_options20, "boolean", "General Knowledge");
+            
